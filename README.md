@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b>❤️‍🔥 ROYAL MUSIC  ❤️‍🔥</b></h1>
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">ANGEL MUSIC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://telegram.dog/its_star_boi"><img src="https://te.legra.ph/file/159d3f9e2d57dd02db970.jpg" width="400"></a></p>
 
@@ -12,10 +12,10 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Shizuka,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using ANGEL,  🤭 That is the greatest pleasure we have !
 
 
-## Features Of Shizuka And Commands ❤️
+## Features Of ANGEL And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -52,7 +52,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### ONLY ADMIN SECTION ❤️‍🔥
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -68,7 +68,7 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Sudo Commands 🤭
+### BIKHARI LOGS SUDO 🤭
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -77,7 +77,7 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🙈
+### OWNER 😎
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
@@ -197,8 +197,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/OFFICIAL_ROYAL_NETWORK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/ROYAL_DISCUS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
